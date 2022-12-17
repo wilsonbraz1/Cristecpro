@@ -54,6 +54,7 @@ ul {
 a{
     text-decoration: none;
     position: relative;
+    color: #042B58;
 }
 
 a::after{
